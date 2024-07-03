@@ -4,5 +4,8 @@
   "main": "assets/js/main.js",
   "author": "Carl Dressler <ich@carldressler.de>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
 }
