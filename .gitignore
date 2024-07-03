@@ -48,3 +48,9 @@ Icon
 # ---------------
 
 /site/config/.license
+
+# Vendor files
+# ---------------
+
+/vendor/*
+/node_modules/*

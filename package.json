@@ -1,0 +1,8 @@
+{
+  "name": "kirby-vite-template",
+  "version": "1.0.0",
+  "main": "assets/js/main.js",
+  "author": "Carl Dressler <ich@carldressler.de>",
+  "license": "UNLICENSED",
+  "private": true
+}
