@@ -54,3 +54,8 @@ Icon
 
 /vendor/*
 /node_modules/*
+
+# Kirby plugins sourced through Composer
+# ---------------
+
+/site/plugins/kirby-vite
